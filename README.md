@@ -1,4 +1,4 @@
-redmine_daily_status
+redmine_dailystatus
 ====================
 
 ## About: 
